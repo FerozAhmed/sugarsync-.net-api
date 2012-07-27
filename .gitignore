@@ -1,6 +1,14 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+*ReSharper*
+Release/
 bin
 obj
-
-# mstest test results
-TestResults
+Thumbs.db
+*.cache
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.userprefs
+logs/
+*.log
+TestResult.xml
